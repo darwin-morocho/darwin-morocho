@@ -14,7 +14,7 @@ Mobile:
 
 
 
-Web and backend skill: 
+Web and backend skills: 
 
 nodejs, React, express, next.js, mongoDB, graphql, firebase. 
 
