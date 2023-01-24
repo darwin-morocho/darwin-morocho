@@ -22,7 +22,7 @@
 <br/>
 
 
-Mobile developer with extensive experience in the development of native and multi-platform mobile applications for iOS and Android. 
+Senior Mobile developer with extensive experience in the development of native and multi-platform mobile applications for iOS and Android. 
 
 
 
@@ -34,7 +34,13 @@ Mobile:
 - Multiplaform apps with react native 🙃. 
 - Firebase auth, messaging, realtime databases, storage, crashlythics. 
 
-
+## Flutter Skills
+- Advance level in dart and flutter.
+- State management with Provider, BLoC, Riverpod, meedu and GetX.
+- Building high quality code with clean architecture.
+- Unit, widget and integration testing.
+- TDD
+- CI && CD
 
 Web and backend skills: 
 
