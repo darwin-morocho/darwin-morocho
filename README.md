@@ -75,5 +75,7 @@ Here my recent apps with flutter
 ![image](https://user-images.githubusercontent.com/15864336/214340109-8ad0c3f6-a73c-43c9-8232-4dbd9ec19df7.png)
 
 
+## Open source contributions
 
+[flutter_facebook_auth](https://github.com/darwin-morocho/flutter-facebook-auth): Plugin for facebook authentication used by 7k developers and recommended by the firebase team.
 
