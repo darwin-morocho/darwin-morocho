@@ -38,8 +38,8 @@ Collboration in Criptan
 
 <div>
 
-  <img height="180em" src="github-readme-stats-the-meedu-app.vercel.app/api?username=darwin-morocho&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="github-readme-stats-the-meedu-app.vercel.app/api/top-langs/?username=darwin-morocho&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api?username=darwin-morocho&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api/top-langs/?username=darwin-morocho&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 
