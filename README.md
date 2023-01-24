@@ -1,4 +1,26 @@
 ## About Me
+<a href="https://www.udemy.com/user/darwin-morocho/" target="_blank">
+<img src="https://img.shields.io/badge/udemy-50k%20students-red"/>
+</a>
+
+<a href="https://meedu.app/" target="_blank">
+<img src="https://img.shields.io/badge/meedu-8k%20students-blue"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCHOBzaZBxsuWARwfmeIgvdQ" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-6k%20subscribers-red"/>
+</a>
+
+
+
+<div>
+
+  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api?username=darwin-morocho&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api/top-langs/?username=darwin-morocho&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+<br/>
+
 
 Mobile developer with extensive experience in the development of native and multi-platform mobile applications for iOS and Android. 
 
@@ -30,17 +52,22 @@ Here my recent apps with flutter
 
 [Aseguradora del Sur](https://play.google.com/store/apps/details?id=com.aseguradoradelsur.app&hl=es_EC&gl=US)
 
+![image](https://user-images.githubusercontent.com/15864336/214339686-bf54aa4f-e7f8-417e-affa-0a3bdf35b745.png)
+
+
+
 [meedu](https://play.google.com/store/apps/details?id=app.meedu.app&hl=es_EC&gl=US)
 
-Collboration in Criptan
+![image](https://user-images.githubusercontent.com/15864336/214339949-8f730068-2a5f-4e6f-a406-1f39cc586e7c.png)
+
+
+
+## Collboration with Criptan
 
 [Criptan app](https://play.google.com/store/apps/details?id=com.criptan.app&gl=ES)
 
-<div>
+![image](https://user-images.githubusercontent.com/15864336/214340109-8ad0c3f6-a73c-43c9-8232-4dbd9ec19df7.png)
 
-  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api?username=darwin-morocho&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-the-meedu-app.vercel.app/api/top-langs/?username=darwin-morocho&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 
 
 
